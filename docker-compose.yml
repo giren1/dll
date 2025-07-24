@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  https-server:
+    build: ./https-microservices
+    container_name: https-server
+    ports:
+      - "443:443"
+    volumes:
+      - ./https-microservices/certs:/https-server/certs
+
+  https-client:
+    build: ./https-client
+    container_name: https-client
+    depends_on:
+      - https-server
+
+  api-server:
+    build: ./api-server
+    container_name: api-server
+    ports:
+      - "5000:80"

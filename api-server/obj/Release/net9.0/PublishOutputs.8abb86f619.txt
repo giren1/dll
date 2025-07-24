@@ -1,0 +1,7 @@
+/Users/yanomakoto/Projects/dll/api-server/publish/api-server
+/Users/yanomakoto/Projects/dll/api-server/publish/appsettings.Development.json
+/Users/yanomakoto/Projects/dll/api-server/publish/appsettings.json
+/Users/yanomakoto/Projects/dll/api-server/publish/api-server.dll
+/Users/yanomakoto/Projects/dll/api-server/publish/api-server.deps.json
+/Users/yanomakoto/Projects/dll/api-server/publish/api-server.runtimeconfig.json
+/Users/yanomakoto/Projects/dll/api-server/publish/api-server.pdb

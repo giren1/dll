@@ -1,0 +1,15 @@
+/Users/yanomakoto/Projects/dll/https-client/bin/Release/net9.0/https-client
+/Users/yanomakoto/Projects/dll/https-client/bin/Release/net9.0/https-client.deps.json
+/Users/yanomakoto/Projects/dll/https-client/bin/Release/net9.0/https-client.runtimeconfig.json
+/Users/yanomakoto/Projects/dll/https-client/bin/Release/net9.0/https-client.dll
+/Users/yanomakoto/Projects/dll/https-client/bin/Release/net9.0/https-client.pdb
+/Users/yanomakoto/Projects/dll/https-client/obj/Release/net9.0/https-client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanomakoto/Projects/dll/https-client/obj/Release/net9.0/https-client.AssemblyInfoInputs.cache
+/Users/yanomakoto/Projects/dll/https-client/obj/Release/net9.0/https-client.AssemblyInfo.cs
+/Users/yanomakoto/Projects/dll/https-client/obj/Release/net9.0/https-client.csproj.CoreCompileInputs.cache
+/Users/yanomakoto/Projects/dll/https-client/obj/Release/net9.0/https-client.sourcelink.json
+/Users/yanomakoto/Projects/dll/https-client/obj/Release/net9.0/https-client.dll
+/Users/yanomakoto/Projects/dll/https-client/obj/Release/net9.0/refint/https-client.dll
+/Users/yanomakoto/Projects/dll/https-client/obj/Release/net9.0/https-client.pdb
+/Users/yanomakoto/Projects/dll/https-client/obj/Release/net9.0/https-client.genruntimeconfig.cache
+/Users/yanomakoto/Projects/dll/https-client/obj/Release/net9.0/ref/https-client.dll

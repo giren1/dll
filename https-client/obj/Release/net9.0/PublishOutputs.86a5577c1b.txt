@@ -1,0 +1,5 @@
+/Users/yanomakoto/Projects/dll/https-client/publish/https-client
+/Users/yanomakoto/Projects/dll/https-client/publish/https-client.dll
+/Users/yanomakoto/Projects/dll/https-client/publish/https-client.deps.json
+/Users/yanomakoto/Projects/dll/https-client/publish/https-client.runtimeconfig.json
+/Users/yanomakoto/Projects/dll/https-client/publish/https-client.pdb

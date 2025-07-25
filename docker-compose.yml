@@ -19,4 +19,4 @@ services:
     build: ./api-server
     container_name: api-server
     ports:
-      - "5000:80"
+      - "5100:8080"
